@@ -11,9 +11,9 @@
 
 | Дисциплина | Технологии | Статус |
 | :--- | :--- | :--- |
-| **C++** | ![C++](https://img.shields.io) | `Completed` |
-| **Operating Systems** | ![C](https://img.shields.io) ![Bash](https://img.shields.io) | `Completed` |
-| **Go (Golang)** | ![Go](https://img.shields.io) | `In Progress` |
+| **C++** | C++ | `Completed` |
+| **Operating Systems** | C, Bash | `Completed` |
+| **Go (Golang)** | Go | `In Progress` |
 
 ---
 
